@@ -1,3 +1,10 @@
 // Place all the styles related to the home controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+img.gray-solid-border {
+  border: 3px solid #999999;
+}
+
+img.gray-double-border {
+  border: 3px double #999999;
+}
